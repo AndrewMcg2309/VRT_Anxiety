@@ -569,7 +569,7 @@ GameObject:
   - component: {fileID: 231198286}
   - component: {fileID: 231198285}
   m_Layer: 5
-  m_Name: blue_btn
+  m_Name: testing_btn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -837,7 +837,7 @@ GameObject:
   - component: {fileID: 635411247}
   - component: {fileID: 635411246}
   m_Layer: 5
-  m_Name: red_btn
+  m_Name: soothing_btn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1101,7 +1101,7 @@ GameObject:
   - component: {fileID: 946611288}
   - component: {fileID: 946611287}
   m_Layer: 5
-  m_Name: green_btn
+  m_Name: info_btn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1235,7 +1235,7 @@ GameObject:
   - component: {fileID: 1011250562}
   - component: {fileID: 1011250561}
   m_Layer: 5
-  m_Name: green_btn (1)
+  m_Name: main_header
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
